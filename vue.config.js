@@ -1,5 +1,5 @@
 module.exports = {
-  assetsDir: "",
-  publicPath: "./",
-  outputDir: "docs"
+  publicPath: "./curry-ingres-gacha",
+  assetsDir: "./",
+  outputDir: "docs/"
 }
